@@ -3,5 +3,6 @@ public class conflict{
         System.out.println("czesc");
         System.out.println("czesc");
         System.out.print("okej");
+        System.out.println("nie wiem");
     }
 }
